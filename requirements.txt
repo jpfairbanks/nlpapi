@@ -1,0 +1,13 @@
+requests
+nltk
+ner
+wikipedia
+wordnik-py3
+readability-lxml
+numpy
+scipy
+sklearn
+bs4
+datetime
+nltk
+google-api-python-client
